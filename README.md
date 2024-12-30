@@ -58,12 +58,21 @@ A continuación, se presentan capturas de pantalla del sistema en funcionamiento
 1. **Menú Principal:**
    ![Menú Principal]
    [![M-Principal.png](https://i.postimg.cc/vmM9VFzj/M-Principal.png)](https://postimg.cc/9D8z6kst)]
+2. **Menú Principal Compra de Entrada VIP:**
+   ![Menú Principal VIP]
+[![V-Principal.png](https://i.postimg.cc/BQr2J11J/V-Principal.png)](https://postimg.cc/N5xK4F4n)
+   
+4. **Selección de Asientos:**
+   ![Selección de Asientos]
+   [![Elegir-Asiento.png](https://i.postimg.cc/xdRmGxpd/Elegir-Asiento.png)](https://postimg.cc/3ykWYBTM)
 
-3. **Selección de Asientos:**
-   ![Selección de Asientos](ruta/a/captura2.png)
+5. **Compra de Entrada:**
+   ![Menú Principal]
+   [![Compra.png](https://i.postimg.cc/L40z0W9Y/Compra.png)](https://postimg.cc/qgyhNjC4)
 
-4. **Historial de Compras:**
-   ![Historial de Compras](ruta/a/captura3.png)
+6. **Historial de Compras:**
+   ![Historial de Compras]
+[![Historial-Compra.png](https://i.postimg.cc/Cxbk5Ljk/Historial-Compra.png)](https://postimg.cc/pmXp1vcL)
 
 *(Reemplaza `ruta/a/capturaX.png` con las rutas correctas de tus imágenes.)*
 
