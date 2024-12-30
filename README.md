@@ -70,8 +70,6 @@ A continuación, se presentan capturas de pantalla del sistema en funcionamiento
 4. **Compra de Entrada:**
    ![Menú Principal]
    [![Compra.png](https://i.postimg.cc/L40z0W9Y/Compra.png)](https://postimg.cc/qgyhNjC4)]
-
-5. **Historial de Compras:**
-[![Historial-Compra.png](https://i.postimg.cc/Cxbk5Ljk/Historial-Compra.png)](https://postimg.cc/pmXp1vcL)
+   
 ## Contacto
 Para dudas o sugerencias, contactar a **Demian Pérez**: demianagustinds3@gmail.com.
