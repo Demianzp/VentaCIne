@@ -13,7 +13,7 @@ Proyecto de la materia **Desarrollo de Software 2**, desarrollado en **Java** ut
    ```bash
    git clone URL_DEL_REPOSITORIO
    ```
-   *(Reemplaza `URL_DEL_REPOSITORIO` con la URL del repositorio en GitHub.)*
+   *(Reemplaza `https://github.com/Demianzp/VentaCIne.git` con la URL del repositorio en GitHub.)*
 
 2. **Abrir el proyecto en un IDE:**
    - Abre tu IDE preferido.
