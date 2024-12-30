@@ -56,12 +56,13 @@ Proyecto de la materia **Desarrollo de Software 2**, desarrollado en **Java** ut
 A continuación, se presentan capturas de pantalla del sistema en funcionamiento:
 
 1. **Menú Principal:**
-   ![Menú Principal]([![M-Principal.png](https://i.postimg.cc/vmM9VFzj/M-Principal.png)](https://postimg.cc/9D8z6kst))
+   ![Menú Principal]
+   [![M-Principal.png](https://i.postimg.cc/vmM9VFzj/M-Principal.png)](https://postimg.cc/9D8z6kst)
 
-2. **Selección de Asientos:**
+3. **Selección de Asientos:**
    ![Selección de Asientos](ruta/a/captura2.png)
 
-3. **Historial de Compras:**
+4. **Historial de Compras:**
    ![Historial de Compras](ruta/a/captura3.png)
 
 *(Reemplaza `ruta/a/capturaX.png` con las rutas correctas de tus imágenes.)*
