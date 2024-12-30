@@ -65,9 +65,9 @@ A continuación, se presentan capturas de pantalla del sistema en funcionamiento
    
 3. **Selección de Asientos:**
    ![Selección de Asientos]
-   [![Elegir-Asiento.png](https://i.postimg.cc/xdRmGxpd/Elegir-Asiento.png)](https://postimg.cc/3ykWYBTM)]
+   [![Elegir-Asientoo.png](https://i.postimg.cc/521LLZ5Z/Elegir-Asientoo.png)](https://postimg.cc/bsCZjVBT)
 
-4. **Compra de Entrada:**
+5. **Compra de Entrada:**
    ![Menú Principal]
    [![Compra.png](https://i.postimg.cc/L40z0W9Y/Compra.png)](https://postimg.cc/qgyhNjC4)]
    
