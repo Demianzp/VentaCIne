@@ -52,5 +52,19 @@ Proyecto de la materia **Desarrollo de Software 2**, desarrollado en **Java** ut
 4. **Salir:**
    - Finaliza el uso del sistema.
 
+## Capturas del Sistema
+A continuación, se presentan capturas de pantalla del sistema en funcionamiento:
+
+1. **Menú Principal:**
+   ![Menú Principal](/home/demian/Escritorio/CineEntrada/Menu-Principal.png)
+
+2. **Selección de Asientos:**
+   ![Selección de Asientos](ruta/a/captura2.png)
+
+3. **Historial de Compras:**
+   ![Historial de Compras](ruta/a/captura3.png)
+
+*(Reemplaza `ruta/a/capturaX.png` con las rutas correctas de tus imágenes.)*
+
 ## Contacto
 Para dudas o sugerencias, contactar a **Demian Pérez**.
