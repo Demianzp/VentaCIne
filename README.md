@@ -11,9 +11,8 @@ Proyecto de la materia **Desarrollo de Software 2**, desarrollado en **Java** ut
 ## Instalación
 1. **Clonar el repositorio:**
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/Demianzp/VentaCIne.git
    ```
-   *(Reemplaza `https://github.com/Demianzp/VentaCIne.git` con la URL del repositorio en GitHub.)*
 
 2. **Abrir el proyecto en un IDE:**
    - Abre tu IDE preferido.
