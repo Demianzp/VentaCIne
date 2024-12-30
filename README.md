@@ -56,7 +56,7 @@ Proyecto de la materia **Desarrollo de Software 2**, desarrollado en **Java** ut
 A continuación, se presentan capturas de pantalla del sistema en funcionamiento:
 
 1. **Menú Principal:**
-   ![Menú Principal](/home/demian/Escritorio/CineEntrada/Menu-Principal.png)
+   ![Menú Principal](Escritorio/CineEntrada/Menu-Principal.png)
 
 2. **Selección de Asientos:**
    ![Selección de Asientos](ruta/a/captura2.png)
